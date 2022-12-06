@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\M8_SPA_Angular_02.props" />
+</Project>

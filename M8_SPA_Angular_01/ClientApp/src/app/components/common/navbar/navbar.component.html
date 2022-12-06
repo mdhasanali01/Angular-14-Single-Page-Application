@@ -1,0 +1,30 @@
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav #drawer class="sidenav" fixedInViewport
+      
+      [opened]="false">
+    <mat-toolbar>Menu</mat-toolbar>
+    <mat-nav-list>
+      <a mat-list-item [routerLink]="['/home']"><mat-icon class="icon">home</mat-icon> Home</a>
+      <a mat-list-item [routerLink]="['/customers']"><mat-icon class="icon">group_add</mat-icon> Customers</a>
+      <a mat-list-item [routerLink]="['/products']"><mat-icon class="icon">shopping_cart</mat-icon> Laptops</a>
+      <a mat-list-item [routerLink]="['/orders']"><mat-icon class="icon">local_atm</mat-icon> Orders</a>
+      
+    </mat-nav-list>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <mat-toolbar color="primary">
+      <button
+        type="button"
+        aria-label="Toggle sidenav"
+        mat-icon-button
+        (click)="drawer.toggle()"
+        >
+        <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
+      </button>
+      <span>Angular Application</span>
+    </mat-toolbar>
+    <div class="container">
+      <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>

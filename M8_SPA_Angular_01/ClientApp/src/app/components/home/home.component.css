@@ -1,0 +1,19 @@
+.container {
+    display: block;
+    width: 97.5vw;
+    margin: 0 auto;
+}
+
+.banner {
+    width: 80vw;
+    margin: 15px auto;
+    padding: 15px 30px;
+    border-radius: 3px;
+    background-color: #e3f2fd;
+    color: #000000;
+    display: flex;
+    gap: .5em;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+}

@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "I:\\All Project\\Angular\\M8_SPA_Angular_Works\\M8_SPA_Angular_02\\wwwroot\\Pictures\\0a0b6919-3eff-48d3-a3f4-114d47d4d056.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\0a0b6919-3eff-48d3-a3f4-114d47d4d056.jpg"
+    },
+    {
+      "Id": "I:\\All Project\\Angular\\M8_SPA_Angular_Works\\M8_SPA_Angular_02\\wwwroot\\Pictures\\1.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\1.jpg"
+    },
+    {
+      "Id": "I:\\All Project\\Angular\\M8_SPA_Angular_Works\\M8_SPA_Angular_02\\wwwroot\\Pictures\\19d97abd-e614-49d0-bd62-0363bfcbec5b.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\19d97abd-e614-49d0-bd62-0363bfcbec5b.jpg"
+    },
+    {
+      "Id": "I:\\All Project\\Angular\\M8_SPA_Angular_Works\\M8_SPA_Angular_02\\wwwroot\\Pictures\\1dcdfb43-7b7a-4382-af64-101bf63c393c.png",
+      "PackagePath": "staticwebassets\\Pictures\\1dcdfb43-7b7a-4382-af64-101bf63c393c.png"
+    },
+    {
+      "Id": "I:\\All Project\\Angular\\M8_SPA_Angular_Works\\M8_SPA_Angular_02\\wwwroot\\Pictures\\2.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\2.jpg"
+    },
+    {
+      "Id": "I:\\All Project\\Angular\\M8_SPA_Angular_Works\\M8_SPA_Angular_02\\wwwroot\\Pictures\\2e9aaba3-dc1c-4e0c-976c-8470e0aeaf74.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\2e9aaba3-dc1c-4e0c-976c-8470e0aeaf74.jpg"
+    },
+    {
+      "Id": "I:\\All Project\\Angular\\M8_SPA_Angular_Works\\M8_SPA_Angular_02\\wwwroot\\Pictures\\3.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\3.jpg"
+    },
+    {
+      "Id": "I:\\All Project\\Angular\\M8_SPA_Angular_Works\\M8_SPA_Angular_02\\wwwroot\\Pictures\\4.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\4.jpg"
+    },
+    {
+      "Id": "I:\\All Project\\Angular\\M8_SPA_Angular_Works\\M8_SPA_Angular_02\\wwwroot\\Pictures\\5.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\5.jpg"
+    },
+    {
+      "Id": "I:\\All Project\\Angular\\M8_SPA_Angular_Works\\M8_SPA_Angular_02\\wwwroot\\Pictures\\6.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\6.jpg"
+    },
+    {
+      "Id": "I:\\All Project\\Angular\\M8_SPA_Angular_Works\\M8_SPA_Angular_02\\wwwroot\\Pictures\\7.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\7.jpg"
+    },
+    {
+      "Id": "I:\\All Project\\Angular\\M8_SPA_Angular_Works\\M8_SPA_Angular_02\\wwwroot\\Pictures\\8.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\8.jpg"
+    },
+    {
+      "Id": "I:\\All Project\\Angular\\M8_SPA_Angular_Works\\M8_SPA_Angular_02\\wwwroot\\Pictures\\84b2820f-67cb-427a-81b3-6eb2529838d7.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\84b2820f-67cb-427a-81b3-6eb2529838d7.jpg"
+    },
+    {
+      "Id": "I:\\All Project\\Angular\\M8_SPA_Angular_Works\\M8_SPA_Angular_02\\wwwroot\\Pictures\\8d6652db-2713-4beb-8b63-fa341af33206.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\8d6652db-2713-4beb-8b63-fa341af33206.jpg"
+    },
+    {
+      "Id": "I:\\All Project\\Angular\\M8_SPA_Angular_Works\\M8_SPA_Angular_02\\wwwroot\\Pictures\\9d688fa6-a84d-4449-b1db-034a81762e98.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\9d688fa6-a84d-4449-b1db-034a81762e98.jpg"
+    },
+    {
+      "Id": "I:\\All Project\\Angular\\M8_SPA_Angular_Works\\M8_SPA_Angular_02\\wwwroot\\Pictures\\bc5a7a41-6ae9-4d67-bcf3-23a366d17cb4.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\bc5a7a41-6ae9-4d67-bcf3-23a366d17cb4.jpg"
+    },
+    {
+      "Id": "I:\\All Project\\Angular\\M8_SPA_Angular_Works\\M8_SPA_Angular_02\\wwwroot\\Pictures\\mushi.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\mushi.jpg"
+    },
+    {
+      "Id": "I:\\All Project\\Angular\\M8_SPA_Angular_Works\\M8_SPA_Angular_02\\wwwroot\\Pictures\\sakib.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\sakib.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.M8_SPA_Angular_02.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.M8_SPA_Angular_02.props",
+      "PackagePath": "build\\M8_SPA_Angular_02.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.M8_SPA_Angular_02.props",
+      "PackagePath": "buildMultiTargeting\\M8_SPA_Angular_02.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.M8_SPA_Angular_02.props",
+      "PackagePath": "buildTransitive\\M8_SPA_Angular_02.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
